@@ -1,0 +1,51 @@
+{
+  "signinLabel": {
+    "findBy": "name",
+    "data": "Sign in or create"
+  },
+  "Next":
+    {
+      "findBy": "name",
+      "data": "Next"
+    },
+  "signin":
+  {
+    "findBy": "name",
+    "data": "Sign in"
+  },
+  "more_option":
+  {
+    "findBy": "name",
+    "data": "More options"
+  },
+  "signout":
+  {
+    "findBy": "name",
+    "data": "Sign out"
+  },
+  "rememberMe_No":
+  {
+    "findBy": "name",
+    "data": "No"
+  },
+  "username":
+  {
+    "findBy": "name",
+    "data": "Enter your email, phone, or Skype."
+  },
+  "password":
+  {
+    "findBy": "name",
+    "data": "Enter the password for arun_ndm@yahoo.com"
+  },
+  "welcome_screen":
+  {
+    "findBy": "name",
+    "data": "Meet Now"
+  },
+  "close_skype":
+  {
+    "findBy": "name",
+    "data": "Close Skype"
+  }
+}
