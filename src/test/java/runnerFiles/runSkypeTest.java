@@ -9,5 +9,5 @@ import io.cucumber.junit.CucumberOptions;
         features = "src/test/resources/featureFiles",
         glue = {"stepDefinitions"},
         plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
-public class testRunner {
+public class runSkypeTest {
 }
